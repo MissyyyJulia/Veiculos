@@ -1,5 +1,5 @@
 package veiculos;
 
-public class Moto{
+public class Moto extends Veiculo{
 
 }
